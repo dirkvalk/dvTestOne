@@ -6,6 +6,6 @@ gitHub site creation
 * it's the first one I created, and 
 * it is a repository
 
-My name is Elmer Fudd. 
+My name is Dirk Valk. 
 
 

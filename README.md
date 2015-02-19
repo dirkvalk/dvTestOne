@@ -8,4 +8,6 @@ gitHub site creation
 
 My name is Dirk Valk. 
 
-This README has been modified in Fork 1
+This README has been modified in Branch 1
+
+The subdirectory subDirOne was added in version two of the branch
